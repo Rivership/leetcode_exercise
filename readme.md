@@ -1,4 +1,4 @@
-# Private Letcode Practice Repository
+# Private Leetcode Practice Repository
 
 Plan:
 
